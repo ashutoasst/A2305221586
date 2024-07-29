@@ -37,15 +37,10 @@ This is an Average Calculator microservice built using Node.js and Express. The 
     npm install
     ```
 
-### Running the Service
+### screenshot
 
-Start the server:
+![Screenshot 2024-07-29 140009](https://github.com/user-attachments/assets/eee1a005-230b-47da-afd2-725bf82a9103)
 
-```bash
-node index.js
-
-
-![Screenshot 2024-07-29 140009](https://github.com/user-attachments/assets/81476eb4-c124-4eaf-8907-7e78999256fc)
 
 
 
