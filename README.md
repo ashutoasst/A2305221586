@@ -41,6 +41,9 @@ This is an Average Calculator microservice built using Node.js and Express. The 
 
 ![Screenshot 2024-07-29 140009](https://github.com/user-attachments/assets/eee1a005-230b-47da-afd2-725bf82a9103)
 
+![Screenshot 2024-07-29 140937](https://github.com/user-attachments/assets/9126f734-60e0-49be-ba3e-1b44f97a8f4b)
+
+
 
 
 
