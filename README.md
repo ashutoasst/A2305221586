@@ -43,3 +43,11 @@ Start the server:
 
 ```bash
 node index.js
+
+The server will run on http://localhost:9876.
+
+### API Endpoints
+Prime Numbers: /numbers/p
+Fibonacci Numbers: /numbers/f
+Even Numbers: /numbers/e
+Random Numbers: /numbers/r
